@@ -7,4 +7,7 @@ public class Persona {
     Persona () {
         nombre = "Antonio";
     }
+    Persona (String nombre, String primerapellido) {
+
+    }
 }
