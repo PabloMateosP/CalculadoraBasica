@@ -1,3 +1,5 @@
+package org.losremedios.daw1.prog.practica;
+
 public class Gato {
     private String nombre;
     private static String raza;

@@ -1,3 +1,7 @@
+package org.losremedios.daw1.prog.practica;
+
+import org.losremedios.daw1.prog.practica.Gato;
+
 public class repaso {
     public static void main(String[] args){
         System.out.println("Hello world");
@@ -5,7 +9,7 @@ public class repaso {
 
         //Creamos un gato
         String s = "miCadena";
-        //Constructor por defecto es el mismo de nombre que la clase en este caso Gato
+        //Constructor por defecto es el mismo de nombre que la clase en este caso org.losremedios.daw1.prog.practica.Gato
         Gato misifu = new Gato("Misifú");
         Gato isidoro = new Gato ("Isidoro");
         Gato sonia = new Gato ("Sonia");

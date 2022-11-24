@@ -1,3 +1,5 @@
+package org.losremedios.daw1.prog.practica.ut3;
+
 public class Persona {
     private String nombre;
     private String primerapellido;
@@ -33,5 +35,8 @@ public class Persona {
         } else {
             System.out.println("La persona es mayor de edad ");
         }
+    }
+    public void NombreIniciales(){
+        System.out.println(this.nombre.charAt(0));
     }
 }

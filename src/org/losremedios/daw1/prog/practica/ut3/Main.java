@@ -1,3 +1,4 @@
+package org.losremedios.daw1.prog.practica.ut3;
 
 public class Main {
     final static Integer A = 2;
