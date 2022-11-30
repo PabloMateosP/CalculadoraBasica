@@ -1,4 +1,4 @@
-package org.losremedios.daw1.prog.practica.ut3;
+package org.losremedios.daw1.prog.practica.calculo;
 
 public class CalculadoraBasica {
     Integer suma(Integer A, Integer B) {
